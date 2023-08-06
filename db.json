@@ -36,6 +36,14 @@
                },
                "total_count":10,
                "total_cost":2750
+            },
+            {
+               "product":{
+                  "product_name":"Birla OPC 33 Grade Cement - 50 kg",
+                  "price_per_unit":275
+               },
+               "total_count":10,
+               "total_cost":2750
             }
          ],
          "coupon_details":{
