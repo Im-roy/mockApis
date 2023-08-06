@@ -1,19 +1,14 @@
 {
-    "data": {
-        "Details": {
-            "description": "Introducing the SmartHome Hub X2000, your gateway to a fully integrated and connected home. This cutting-edge smart hub revolutionizes the way you interact with your household devices and appliances, bringing seamless automation and control at your fingertip",
-            "product_dimension": {
-                "length": 10,
-                "height": 30,
-                "sku_id": "IM01234989"
-            }
-        },
-        "Warranty": {
-            "description": "Centralized Control: The SmartHome Hub X2000 serves as the nerve center of your smart home, consolidating all your compatible devices and appliances into a single, user-friendly interface. Whether it's smart lights, thermostats, cameras, smart plugs, or other IoT devices, you can effortlessly manage them all from one place"
-        },
-        "Returns": {
-            "description": "Voice Assistant Integration: With built-in support for major voice assistants like Alexa and Google Assistant, you can now control your entire home with simple voice commands. Just speak your instructions, and the SmartHome Hub X2000 will execute them promptly, offering a truly hands-free experience."
-        }
-    },
-    "success": true
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
