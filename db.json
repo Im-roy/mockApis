@@ -1,13 +1,13 @@
 {
-   "ticket-history/123": {
-   "data":[
-      {
-         "status_changed_by":"Alfaz kumar",
-         "state_transition_date":"22/12/2000",
-         "status_transition_from":"in-progress",
-         "status_transition_to":"under-progress"
-      }
-   ],
-   "status":"open"
+   "ticket-history-123":{
+      "data":[
+         {
+            "status_changed_by":"Alfaz kumar",
+            "state_transition_date":"22/12/2000",
+            "status_transition_from":"in-progress",
+            "status_transition_to":"under-progress"
+         }
+      ],
+      "status":"open"
    }
 }
