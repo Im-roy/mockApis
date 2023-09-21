@@ -1,75 +1,13 @@
 {
-   "product-details":{
-      "data":{
-         "Details":{
-            "description":"Introducing the SmartHome Hub X2000, your gateway to a fully integrated and connected home. This cutting-edge smart hub revolutionizes the way you interact with your household devices and appliances, bringing seamless automation and control at your fingertip",
-            "product_dimension":{
-               "length":10,
-               "height":30,
-               "sku_id":"IM01234989"
-            }
-         },
-         "Warranty":{
-            "description":"Centralized Control: The SmartHome Hub X2000 serves as the nerve center of your smart home, consolidating all your compatible devices and appliances into a single, user-friendly interface. Whether it's smart lights, thermostats, cameras, smart plugs, or other IoT devices, you can effortlessly manage them all from one place"
-         },
-         "Returns":{
-            "description":"Voice Assistant Integration: With built-in support for major voice assistants like Alexa and Google Assistant, you can now control your entire home with simple voice commands. Just speak your instructions, and the SmartHome Hub X2000 will execute them promptly, offering a truly hands-free experience."
-         }
-      },
-      "success":true
-   },
-   "cart-details":{
-      "data":{
-         "cart_items":[
-            {
-               "product":{
-                  "product_name":"UltraTech OPC 53 Grade Cement - 50 kg",
-                  "price_per_unit":295
-               },
-               "total_count":10,
-               "total_cost":2950
-            },
-            {
-               "product":{
-                  "product_name":"Birla OPC 33 Grade Cement - 50 kg",
-                  "price_per_unit":275
-               },
-               "total_count":10,
-               "total_cost":2750
-            },
-            {
-               "product":{
-                  "product_name":"Birla OPC 33 Grade Cement - 50 kg",
-                  "price_per_unit":275
-               },
-               "total_count":10,
-               "total_cost":2750
-            }
-         ],
-         "coupon_details":{
-            "applied":true,
-            "percentage_amount_waived":20,
-            "coupon_code":"WELCOME20"
-         },
-         "sub_total":7500,
-         "shipping":500,
-         "total_cart_cost":8000
-      },
-      "success":true
-   },
-   "comments":[
+   "ticket-history/123": {
+   "data":[
       {
-         "id":1,
-         "body":"some comment",
-         "postId":1
-      },
-      {
-         "id":2,
-         "body":"some comment",
-         "postId":1
+         "status_changed_by":"Alfaz kumar",
+         "state_transition_date":"22/12/2000",
+         "status_transition_from":"in-progress",
+         "status_transition_to":"under-progress"
       }
    ],
-   "profile":{
-      "name":"typicode"
+   "status":"open"
    }
 }
